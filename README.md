@@ -9,6 +9,8 @@
 [![stability status](https://www.meterian.io/badge/gh/Activiti/Activiti/stability)](https://www.meterian.io/report/gh/Activiti/Activiti)
 [![licensing status](https://www.meterian.io/badge/gh/Activiti/Activiti/licensing)](https://www.meterian.io/report/gh/Activiti/Activiti)
 
+<a href="README.zh-CN.md">简体中文</a>
+
 Homepage: <http://activiti.org>
 
 Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the cloud. It integrates perfectly with Spring, it is extremely lightweight and based on simple concepts.
